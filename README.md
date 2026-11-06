@@ -1,5 +1,7 @@
 # JySphereLibrary
 
+###NOTE:# this project is obsolete. It was created in 2014 when the vSphere 5.5 was in use and the "vijava" library was popular. Over the years, with the death of jython, java libraries for Robot Framework became less popular.
+
 Robot Framework library for the VMware vSphere API. Library scope is `TEST SUITE`.
 
 Call `Open JySphere Connection` before any other keyword. Most keywords fail if that connection is missing.
